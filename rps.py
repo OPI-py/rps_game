@@ -1,3 +1,5 @@
+#! python3
+
 from tkinter import Tk, Label, Button, messagebox
 import random
 
